@@ -27,6 +27,3 @@ E-commerce platform for Vietnamese shoppers to purchase goods from the US with F
 <img src="https://github.com/user-attachments/assets/4c21d483-33b2-4d01-9366-98b2ca4bb23d" width="300" height="630">
 <img src="https://github.com/user-attachments/assets/ca8fc1e2-b750-49fc-ba60-9fb13dbdc92a" width="300" height="630">
 <img src="https://github.com/user-attachments/assets/eb28cc40-197d-4eee-b5db-115b1d08ec9c" width="300" height="630">
-
-
-# hunty

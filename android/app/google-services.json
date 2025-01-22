@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "16139404994",
+    "project_id": "vietsmart-cde24",
+    "storage_bucket": "vietsmart-cde24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16139404994:android:b7bc1eb7770dafdf11dd5b",
+        "android_client_info": {
+          "package_name": "com.app.hunty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16139404994-18gu0gjclhahbh4g1mthm6ni8vgmgksb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.hunty",
+            "certificate_hash": "8ce9ad1021f2b0855e99dce02ac44007ec8d7d21"
+          }
+        },
+        {
+          "client_id": "16139404994-dafu7c06pdpdeostieo7dbajoif0tv7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRvqmxsJ5jlbYUaYx8rhQHJnnvQCcin5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16139404994-dafu7c06pdpdeostieo7dbajoif0tv7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,51 @@
+class ImageConstant{
+  static const String _subPath="assets/pngs/";
+  static const String welcomeFirst ="${_subPath}bg_welcome_first.png";
+  static const String welcomeSecond ="${_subPath}bg_welcome_second.png";
+  static const String welcomeThirst ="${_subPath}bg_welcome_third.png";
+  static const String iconApp = "${_subPath}icon_app.png";
+  static const String google = "${_subPath}icon_google.png";
+  static const String facebook = "${_subPath}icon_facebook.png";
+  static const String facialRecognition = "${_subPath}icon_face_id.png";
+  static const String coverFirst = "${_subPath}bg_cover_first.png";
+  static const String coverSecond = "${_subPath}bg_cover_second.png";
+  static const String discount = "${_subPath}bg_discount.png";
+  static const String marker = "${_subPath}icon_marker.png";
+  static const String logo_window_info = "${_subPath}logo_window_info.png";
+  static const String cash = "${_subPath}logo_cash.png";
+  static const String visa = "${_subPath}logo_visa.png";
+  static const String atm = "${_subPath}logo_atm.png";
+  static const String momo = "${_subPath}logo_momo.png";
+  static const String payoo = "${_subPath}logo_payoo.png";
+  static const String bgAddToCart = "${_subPath}bg_add_to_cart.png";
+
+  static const String flashSaleProduct_1 = "${_subPath}bg_flash_sale_1.png";
+  static const String flashSaleProduct_2 = "${_subPath}bg_flash_sale_2.png";
+  static const String flashSaleProduct_3 = "${_subPath}bg_flash_sale_3.png";
+  static const String flashSaleProduct_4 = "${_subPath}bg_flash_sale_4.png";
+  static const String flashSaleProduct_5 = "${_subPath}bg_flash_sale_5.png";
+  static const String promotion_1 = "${_subPath}bg_promotion_1.png";
+  static const String promotion_2 = "${_subPath}bg_promotion_2.png";
+  static const String promotion_3 = "${_subPath}bg_promotion_3.png";
+  static const String promotion_4 = "${_subPath}bg_promotion_4.png";
+  static const String promotion_large = "${_subPath}bg_promotion_large.png";
+  static const String search_promotion_1 = "${_subPath}bg_search_promotion_1.png";
+  static const String search_promotion_2 = "${_subPath}bg_search_promotion_2.png";
+  static const String search_promotion_3 = "${_subPath}bg_product_of_shop_1.png";
+  static const String search_promotion_4 = "${_subPath}bg_search_promotion_4.png";
+  static const String bgProductOfShop_1 = "${_subPath}bg_product_of_shop_1.png";
+  static const String bgProductOfShop_2 = "${_subPath}bg_product_of_shop_2.png";
+  static const String bgProductOfShop_3 = "${_subPath}bg_product_of_shop_3.png";
+  static const String bgProductOfShop_4 = "${_subPath}bg_product_of_shop_4.png";
+  static const String bgProductOfShop_5 = "${_subPath}bg_product_of_shop_5.png";
+  static const String bgCoverDetailsProduct = "${_subPath}bg_cover_details_product.png";
+  static const String thumbnailDetailsProduct_1 = "${_subPath}thumbnail_details_product_1.png";
+  static const String thumbnailDetailsProduct_2 = "${_subPath}thumbnail_details_product_2.png";
+  static const String thumbnailCategoryShirt = "${_subPath}thumbnail_category_shirt.png";
+  static const String thumbnailCategoryAccessories = "${_subPath}thumbnail_category_accessories.png";
+  static const String thumbnailCategoryPhone = "${_subPath}thumbnail_category_phone.png";
+  static const String thumbnailCategoryHeadphone = "${_subPath}thumbnail_category_headphone.png";
+
+  static const String logoShop = "${_subPath}logo_shop.png";
+  static const String avatarProfile = "${_subPath}avatar_profile.png";
+}
